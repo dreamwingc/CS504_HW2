@@ -1,0 +1,8 @@
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/rest/OrderServiceRestController.java
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/domain/OrderList.java
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/OrderServiceApplication.java
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/domain/OrderRepository.java
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/domain/Order.java
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/service/Impl/OrderServiceImpl.java
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/domain/PriceCalculator.java
+/home/vagrant/workspace/spring-cloud-restaurant/order-service/src/main/java/demo/service/OrderService.java
