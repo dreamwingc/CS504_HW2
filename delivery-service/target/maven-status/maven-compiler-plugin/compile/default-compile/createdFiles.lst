@@ -1,0 +1,6 @@
+demo/rest/DeliveryServiceRestController.class
+demo/service/Impl/DeliveryServiceImpl.class
+demo/domain/Delivery.class
+demo/service/DeliveryService.class
+demo/DeliveryServiceApplication.class
+demo/domain/DeliveryRepository.class
